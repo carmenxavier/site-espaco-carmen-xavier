@@ -1,0 +1,76 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Espaço Terapêutico Carmen Xavier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <div class="logo">
+                <a href="index.html">Espaço Carmen Xavier</a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="pilates.html">Pilates</a></li>
+                    <li><a href="terapia.html">Terapia</a></li>
+                    <li><a href="clinica-social.html">Clínica Social</a></li>
+                    <li><a href="sobre.html">Sobre Carmen</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="home">
+            <div class="container">
+                <h1>Bem-vindo ao seu refúgio de bem-estar.</h1>
+                <div class="content-wrapper">
+                    <div class="text-content">
+                        <p>No Espaço Terapêutico Carmen Xavier, acreditamos no cuidado integral do ser. Oferecemos um ambiente acolhedor e profissional para você encontrar equilíbrio, força e paz interior.</p>
+                        <p>Explore nossos serviços e descubra como podemos ajudar você a viver uma vida mais plena e saudável. Unimos a precisão do Pilates com a profundidade da Terapia para promover a harmonia entre corpo e mente.</p>
+                        <a href="#contato" class="btn">Agende sua visita</a>
+                    </div>
+                    <div class="image-content">
+                        <img src="https://via.placeholder.com/500x350.png?text=Ambiente+Acolhedor" alt="Ambiente do Espaço Terapêutico">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contato">
+        <div class="container">
+             <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Contato</h3>
+                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/5591984290293" >(91) 98429-0293</a></p>
+                    <p><strong>WhatsApp 2:</strong> <a href="https://wa.me/55919983185706" >(91) 99831-85706</a></p>
+                </div>
+                <div class="footer-section">
+                    <h3>Endereço</h3>
+                    <p>Rua 15 de Agosto, 1309</p>
+                    <p>Icoaraci - Belém, Pará</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Siga-nos</h3>
+                    <div class="social-links">
+                        <a href="https://www.instagram.com/espcarmenxavier/" >Instagram (Espaço)</a>
+                        <a href="https://www.instagram.com/carmenxaviert/" >Instagram (Carmen)</a>
+                        <a href="https://www.facebook.com/carmenxaviert" >Facebook</a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2024 Espaço Terapêutico Carmen Xavier. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

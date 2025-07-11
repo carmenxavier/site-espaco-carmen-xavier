@@ -1,0 +1,58 @@
+<!-- pilates.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilates | Espaço Terapêutico Carmen Xavier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <div class="logo">
+                <a href="index.html">Espaço Carmen Xavier</a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="pilates.html" class="active">Pilates</a></li>
+                    <li><a href="terapia.html">Terapia</a></li>
+                    <li><a href="clinica-social.html">Clínica Social</a></li>
+                    <li><a href="sobre.html">Sobre Carmen</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="pilates-page">
+            <div class="container">
+                <h2>Pilates: Força, Flexibilidade e Consciência Corporal</h2>
+                <div class="content-wrapper">
+                     <div class="image-content">
+                        <img src="https://via.placeholder.com/500x350.png?text=Aula+de+Pilates" alt="Aluna praticando Pilates">
+                    </div>
+                    <div class="text-content">
+                        <p>O método Pilates é um sistema de exercícios que foca no desenvolvimento equilibrado do corpo através do fortalecimento do core (centro de força), flexibilidade e consciência corporal.</p>
+                        <p><strong>Nossos diferenciais:</strong></p>
+                        <ul>
+                            <li>Aulas personalizadas para suas necessidades.</li>
+                            <li>Instrutores certificados e experientes.</li>
+                            <li>Equipamentos modernos e ambiente climatizado.</li>
+                            <li>Foco na reabilitação e prevenção de lesões.</li>
+                        </ul>
+                        <a href="https://wa.me/5591984290293"  class="btn btn-whatsapp">Agende uma aula experimental</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contato">
+        <!-- O conteúdo do rodapé é o mesmo da página index.html -->
+    </footer>
+
+</body>
+</html>

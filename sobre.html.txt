@@ -1,0 +1,52 @@
+<!-- sobre.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Carmen Xavier | Espaço Terapêutico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <div class="logo">
+                <a href="index.html">Espaço Carmen Xavier</a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="pilates.html">Pilates</a></li>
+                    <li><a href="terapia.html">Terapia</a></li>
+                    <li><a href="clinica-social.html">Clínica Social</a></li>
+                    <li><a href="sobre.html" class="active">Sobre Carmen</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="sobre-page">
+            <div class="container">
+                <h2>Sobre Carmen Xavier</h2>
+                <div class="content-wrapper">
+                    <div class="image-content">
+                        <img src="https://via.placeholder.com/500x350.png?text=Carmen+Xavier" alt="Foto de Carmen Xavier">
+                    </div>
+                    <div class="text-content">
+                        <p>Carmen Xavier é uma profissional dedicada ao estudo do movimento e da mente humana. Com formação em Fisioterapia e especializações em Pilates e abordagens terapêuticas, ela fundou o espaço com a missão de oferecer um tratamento completo e humanizado.</p>
+                        <p>Sua paixão é ajudar as pessoas a se reconectarem com seus corpos, superarem dores físicas e emocionais, e encontrarem mais qualidade de vida. Ela combina técnica, empatia e uma escuta atenta para guiar cada aluno e paciente em sua jornada pessoal.</p>
+                        <p>Siga o trabalho dela nas redes sociais para dicas e inspirações.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contato">
+        <!-- Copie e cole o rodapé do index.html aqui -->
+    </footer>
+
+</body>
+</html>

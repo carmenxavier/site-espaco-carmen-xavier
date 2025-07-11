@@ -1,0 +1,52 @@
+<!-- terapia.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terapia | Espaço Terapêutico Carmen Xavier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <div class="logo">
+                <a href="index.html">Espaço Carmen Xavier</a>
+            </div>
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="pilates.html">Pilates</a></li>
+                    <li><a href="terapia.html" class="active">Terapia</a></li>
+                    <li><a href="clinica-social.html">Clínica Social</a></li>
+                    <li><a href="sobre.html">Sobre Carmen</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="terapia-page">
+            <div class="container">
+                <h2>Terapia: Cuidando da Mente e das Emoções</h2>
+                 <div class="content-wrapper">
+                    <div class="text-content">
+                        <p>Oferecemos um espaço seguro e confidencial para o seu processo de autoconhecimento e cura emocional. A terapia é uma jornada de descoberta que pode transformar sua relação consigo mesmo e com o mundo.</p>
+                        <p>Trabalhamos com diversas abordagens para atender às suas necessidades individuais, ajudando a lidar com questões como ansiedade, estresse, relacionamentos e desenvolvimento pessoal.</p>
+                        <a href="https://wa.me/5591984290293"  class="btn">Saiba mais sobre as abordagens</a>
+                    </div>
+                     <div class="image-content">
+                        <img src="https://via.placeholder.com/500x350.png?text=Sessão+de+Terapia" alt="Sessão de Terapia">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contato">
+        <!-- Copie e cole o rodapé do index.html aqui -->
+    </footer>
+    
+</body>
+</html>
